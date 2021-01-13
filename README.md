@@ -1,0 +1,2 @@
+# Trabalhando_nodejs
+ Projeto desenvolvido durante uma aula do Bootcamp ofericido pelo IGTI e ministrado pelo professor Guilherme Assis. Acompanhando o professor peguei uma base de dados do campeonato brasileito de 2003 (poderia ser qualquer outro ano) e implementei algumas funções que me retornaram mais duas bases de dados, uma com o nome de todos os times que participaram do campeonato e sua pontuação e outra com os quatro times que mais pontuaram.
